@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a Personal Project!
-- 🌱 I’m currently learning Spring Framework
+- 🌱 I’m currently learning Spring Boot
 - 💬 Ask me about anything related to **Java/Python/MySQL**
 - 📫 How to reach me: shubhamshelar8691@gmail.com
 
